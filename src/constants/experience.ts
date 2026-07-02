@@ -6,16 +6,7 @@ import type { ExperienceItem } from "@/types";
  * (contoh: "2022 — 2023") sebelum publish.
  */
 export const EXPERIENCE_ITEMS: readonly ExperienceItem[] = [
-  {
-    id: "gizi",
-    commitHash: "a1f9c2e",
-    role: "Staf Instalasi Gizi",
-    organization: "RSU Imelda Medan",
-    period: "Periode kerja",
-    summary:
-      "Mengelola operasional harian di lingkungan rumah sakit yang menuntut ketelitian, kepatuhan prosedur, dan koordinasi tim — fondasi disiplin kerja yang sekarang terbawa ke cara menulis kode.",
-    tags: ["Operasional", "Ketelitian", "Kerja Tim"],
-  },
+  
   {
     id: "yamaha",
     commitHash: "7e3b110",
