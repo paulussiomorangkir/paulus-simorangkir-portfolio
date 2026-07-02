@@ -22,7 +22,7 @@ export function Hero() {
           variants={heroEntrance}
           className="font-mono text-sm text-indigo-500 dark:text-indigo-400"
         >
-          $ whoami
+         
         </motion.p>
 
         <motion.h1
